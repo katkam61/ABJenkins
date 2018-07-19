@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-19T11:00:33Z" name="Default suite" finished-at="2018-07-19T11:00:58Z" duration-ms="24885">
+    <groups>
+    </groups>
+    <test started-at="2018-07-19T11:00:33Z" name="Default test" finished-at="2018-07-19T11:00:58Z" duration-ms="24885">
+      <class name="ABJenkins.com.Demo.mvnjnknsDemo">
+        <test-method signature="google()[pri:0, instance:ABJenkins.com.Demo.mvnjnknsDemo@50caa560]" started-at="2018-07-19T11:00:33Z" name="google" finished-at="2018-07-19T11:00:58Z" duration-ms="24781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+      </class> <!-- ABJenkins.com.Demo.mvnjnknsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
